@@ -1,14 +1,14 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-</br>
-I'm Ritesh Jhurreea
+<!-- Banner-->
+
+![Black Minimalist Corporate Personal Profile LinkedIn Banner](https://raw.githubusercontent.com/IslandHaze/IslandHaze/main/png_20230126_101230_0000.png)
 =======================================================================================================================================
 
-Web Developer
+Front-End Developer
 -------------
 
 I've been learning to code for 1 year, after switching careers, I started with HTML, but have really found a passion for both frontend and backend development. Highly motivated, self-starting developer seeking to launch a career building web applications and services.
 
-* 🌍  I'm based in Mauritius
+* 🌍  I'm currently based in France
 * ✉️  You can contact me at [jritesh.fr@gmail.com](mailto:jritesh.fr@gmail.com)
 
 <a href="https://www.github.com/IslandHaze" target="_blank" rel="noreferrer"><img
@@ -39,6 +39,8 @@ src="https://img.shields.io/github/followers/IslandHaze?logo=github&style=for-th
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/IslandHaze" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.twitter.com/_IslandHaze" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
 
 ### Badges
 
